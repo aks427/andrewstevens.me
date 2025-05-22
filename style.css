@@ -16,9 +16,9 @@ body {
 }
 
 .content {
-  min-height: 300px;
   padding-right: clamp(30px, 5vw, 50px);
   padding-left: clamp(30px, 5vw, 50px);
+  padding-bottom: 50px;
 }
 
 .site-links {
